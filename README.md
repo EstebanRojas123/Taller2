@@ -23,6 +23,7 @@ Juego Nuevo: pregunta por la dificultad y da inicio al juego. Pregunta por la co
 cargar partida: si se ha guardado anteriormente, se puede cargar el csv y retomar la jugada.
 salir: termina el programa
 
+Implementar la poda alpha-beta: Sin poda la busqueda es significativamente lenta, ya que se recorren todos los nodos de cada nivel del arbol. Sin embargo, al incluirse la poda, esta puede ir descartando nodos del arbol, esto mejora el rendimiento y tiempo de ejecución.
 
 
   
